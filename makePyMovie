@@ -1,0 +1,6 @@
+
+
+export MPGPath=./makeMPGlib
+
+echo $MPGPath/makeMovie.py
+visit -nowin -cli -s $MPGPath/makeMovie.py
